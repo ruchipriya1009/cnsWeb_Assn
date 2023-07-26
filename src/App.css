@@ -1,11 +1,10 @@
-.App {
-  text-align: center;
+
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
@@ -22,6 +21,10 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+.App{
+  font-family:'Rubik, sans-serif';
+  
 }
 
 .App-link {
